@@ -1,2 +1,2 @@
-# vite-react-tailwind
+# vite-react-tailwind-eslint-prettier
 Simple starter repo for fast iterations
